@@ -1,0 +1,17 @@
+{
+    "displayName": "Job Animation Curve",
+    "version": "0.0.1",
+    "description": "An AnimationCurve that works inside a job. Build one by providing original AnimationCurve.",
+    "unity": "2019.1",
+    "dependencies": {
+        "com.unity.entities": "0.0.12-preview.31",
+        "com.unity.mathematics": "1.0.1",
+        "com.unity.collections": "0.0.9-preview.18",
+        "com.unity.burst": "1.0.0",
+        "com.unity.jobs": "0.0.7-preview.11"
+    },
+    "keywords": [
+        "jobs"
+    ],
+    "name": "com.e7.job-animation-curve"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "E7.DataStructure.JobAnimationCurve",
+    "references": [
+        "Unity.Collections",
+        "Unity.Mathematics",
+        "Unity.Entities"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
